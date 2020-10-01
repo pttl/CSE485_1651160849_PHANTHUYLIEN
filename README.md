@@ -1,2 +1,2 @@
-# CSE485_1651160849_PHANTHUYLIEN
-Project
+CSE485_Web Technologies 2020
+Đây là trang chứa source code của "Web khoa CNTT + Diễn đàn"
